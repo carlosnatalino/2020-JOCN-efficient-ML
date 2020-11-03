@@ -24,6 +24,8 @@ This work builds upon the testbed and dataset published previous and available [
 - The implementation and testing of DBSCAN and OCSVM over encoded dataset using autoencoder is available [here](./training-detection-ae.ipynb).
 - The scalability test performed can be found [here](./scalability-test.ipynb).
 
+The dataset is not available due to confidentiality agreements. However, binary files containin the results are available, such that you can run the [plotting](./plotting.ipynb) file.
+
 ### Libraries required
 
 The implementaion uses TensorFlow 2.x, pandas, scikit-learn and matplotlib.
